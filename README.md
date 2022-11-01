@@ -1,4 +1,4 @@
-# Valorant Instalocker
+# Valorant Instalocker (NOT YET FULLY FUNCTIONAL)
 Program to be the first to choose an agent in Valorant by manually and easily adding the position of the agents to obtain a simple and self-configuring program as a result.
 
 <div align="center">
