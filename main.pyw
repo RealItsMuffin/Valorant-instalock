@@ -1,3 +1,3 @@
 from data.Instalocker import *
 
-p = Program("InstaLocker", "es").start()
+p = Program("InstaLocker", "en").start()
